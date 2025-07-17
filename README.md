@@ -30,6 +30,8 @@ I come from a background in admin, reporting, and education, where I’ve worked
 
 ---
 
+### 📚 Portfolio
+- Welcome to my [portfolio](https://github.com/ChicaneStent/Portfolio.git), where I showcase my projects.
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/chicane-stent-035a17260/)

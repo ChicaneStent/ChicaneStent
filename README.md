@@ -4,7 +4,7 @@
 
 I'm an aspiring data analyst with a growing interest in finding insights and stories in data.
 
-I come from a background in admin, reporting, and education, where I’ve worked with spreadsheets, handled data, and helped improve how information is used in day-to-day operations. I’ve recently completed training in Excel, statistics, and data tools like Google Analytics and Looker Studio — and I’m excited to keep learning.
+I come from a background in admin, reporting, and education, where I’ve worked with spreadsheets, handled data, and helped improve how information is used in day-to-day operations. I’ve recently completed training in Excel, statistics, and data tools like Google Analytics and Looker Studio, and I’m excited to keep learning.
 
 ---
 

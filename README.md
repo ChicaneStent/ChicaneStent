@@ -27,6 +27,7 @@ I come from a background in admin, reporting, and education, where I’ve worked
 | **Google Analytics 4** | Setup and basic reporting |
 | **Google Workspace** | Docs, Calendar, Forms, Gmail |
 | **Canva**            | Visual reporting & content layout |
+| **Microsoft Power BI**            | Dashboards & Reports |
 
 ---
 
